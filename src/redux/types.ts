@@ -1,0 +1,9 @@
+export const CHANGE_STYLE = 'CHANGE_STYLE';
+export const CHANGE_INPUT = 'CHAGE_INPUT';
+export const SET_INPUT = 'SET_INPUT';
+export const CLEAR_ALL = 'CLEAR_ALL';
+export const CLEAR_LAST = 'CLEAR_LAST';
+export const SHOW_EQUAL = 'SHOW_EQUAL';
+export const BIG_SCREEN = 'BIG_SCREEN'
+export const CLOSE_ALERTS = 'CLOSE_ALERTS'
+export const MODAL_SCREEN = 'MODAL_SCREEN'
